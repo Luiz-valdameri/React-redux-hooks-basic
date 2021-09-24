@@ -1,4 +1,4 @@
-# Simple React Redux Hooks projecto
+# Simple React Redux Hooks project
 
 This project was made with the intention to learn about react redux hooks.
 
